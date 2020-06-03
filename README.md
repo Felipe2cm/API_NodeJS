@@ -16,3 +16,8 @@ Esta aplicação também conta com um sistema de migrations, que possibilita a c
 
 <h2>Banco de Dados</h2>
 Na esrtuturação do banco, foi utilizada uma simples relação de um para muitos, com o único intuito de exemplificar como ficaria a codificação da API neste caso.
+
+<h2>Express</h2>
+Outra importante ferramenta utilzada foi o Framework Express, que auxilia muito quando o assunto é criar um API utlizando o NodeJS.
+
+
