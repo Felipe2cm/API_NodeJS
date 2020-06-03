@@ -3,7 +3,7 @@ Um simples exemplo de API construida utilizando o NodeJS
 
 <h2>Rotas</h2>
 A api possui 4 rotas, sendo 2 para cadastro e 2 consulta de dados
-<h3>________________________________________________________________</h3>
+<h5>__________________________________________________________________</h5>
 <ol>
 <li> Post /users - Cadastro de novos usuários</li>
 <li> Get /users - Listagem de todos os usuários</li>
